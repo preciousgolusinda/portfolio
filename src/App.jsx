@@ -43,16 +43,17 @@ function App() {
       desc:
         "An ESP32-powered reverse vending machine that detects, sorts, and monitors recyclable materials while rewarding users through an IoT-based credit system.",
       images: [
-        "/projects/698ff452-b845-4322-a693-60530829bb09.jpg",
-        "/projects/e45e922c-5dcb-4eb7-b2ec-e4c2982b8ee7.jpg",
-        "/projects/0e390bc6-f7b4-460f-9677-b2b4fae89f87.jpg",
-        "/projects/4d5961be-5c3a-41fa-9d31-227a0feb19a7.jpg",
-        "/projects/16c01b88-e2ef-450a-9b53-7064f4385e2f.jpg",
-        "/projects/6a2805f9-f292-45e2-a62f-dacc929cf80f.jpg",
-        "/projects/6d062eb5-3ff9-45a8-bd36-14e44e996a78.jpg",
-        "/projects/79d9bee3-42a8-4acb-b20c-2020187be89c.jpg",
-        "/projects/3428099f-9242-4de9-a485-f1c344e27f3b.jpg",
-        "/projects/7477cbd8-1840-4834-b30a-075f0d649aa1.jpg"
+        "/portfolio/projects/698ff452-b845-4322-a693-60530829bb09.jpg"
+,
+        "/portfolio/projects/e45e922c-5dcb-4eb7-b2ec-e4c2982b8ee7.jpg",
+        "/portfolio/projects/app.jpg",
+        "/portfolio/projects/4d5961be-5c3a-41fa-9d31-227a0feb19a7.jpg",
+        "/portfolio/projects/16c01b88-e2ef-450a-9b53-7064f4385e2f.jpg",
+        "/portfolio/projects/6a2805f9-f292-45e2-a62f-dacc929cf80f.jpg",
+        "/portfolio/projects/6d062eb5-3ff9-45a8-bd36-14e44e996a78.jpg",
+        "/portfolio/projects/79d9bee3-42a8-4acb-b20c-2020187be89c.jpg",
+        "/portfolio/projects//3428099f-9242-4de9-a485-f1c344e27f3b.jpg",
+        "/portfolio/projects/7477cbd8-1840-4834-b30a-075f0d649aa1.jpg"
       ],
       functions: [
         "Detects items using proximity sensors",
@@ -68,7 +69,7 @@ function App() {
       desc:
         "A secure access control system implemented using digital logic gates and combinational circuits, complete with schematic diagrams used for logic design and verification.",
       images: [
-        "/projects/0606f1e2-5446-4e3c-b448-eefb16314f1a.jpg"
+        "/portfolio/projects/0606f1e2-5446-4e3c-b448-eefb16314f1a.jpg"
       ],
       functions: [
         "Uses AND, OR, NOT, XOR gates",
@@ -82,9 +83,9 @@ function App() {
       desc:
         "An Arduino-controlled robotic arm designed for basic pick-and-place operations.",
       images: [
-        "/projects/c97d2099-71f7-40ba-9ea2-ab22eadd5730.jpg",
-        "/projects/4928c9d9-4cb2-4a39-b2fc-a9ad0077edd5.jpg",
-        "/projects/80ce7085-8079-4956-b7ca-f309af90d0fa.jpg"
+        "/portfolio/projects/c97d2099-71f7-40ba-9ea2-ab22eadd5730.jpg",
+        "/portfolio/projects/4928c9d9-4cb2-4a39-b2fc-a9ad0077edd5.jpg",
+        "/portfolio/projects/80ce7085-8079-4956-b7ca-f309af90d0fa.jpg"
       ],
       functions: [
         "Controls multiple servo motors",
@@ -97,12 +98,12 @@ function App() {
       desc:
         "A solar-powered irrigation system that automatically waters plants based on soil moisture levels.",
       images: [
-        "/projects/a070ad4b-9482-4433-aa54-185ef37c1b01.jpg",
-        "/projects/1c95df68-b0dc-4cad-9545-9ade206d2025.jpg",
-        "/projects/2bb8b1d0-7400-4d99-acd2-89b425e231b2.jpg",
-        "/projects/5b59a24d-dcfe-4738-9886-0185176182ef.jpg",
-        "/projects/04053a94-cacf-4bf8-b140-3cfc17426483.jpg",
-        "/projects/9989de2d-8a4d-4476-ada5-e27f467a7448.jpg"
+        "/portfolio/projects/a070ad4b-9482-4433-aa54-185ef37c1b01.jpg",
+        "/portfolio/projects/1c95df68-b0dc-4cad-9545-9ade206d2025.jpg",
+        "/portfolio/projects/2bb8b1d0-7400-4d99-acd2-89b425e231b2.jpg",
+        "/portfolio/projects/5b59a24d-dcfe-4738-9886-0185176182ef.jpg",
+        "/portfolio/projects/04053a94-cacf-4bf8-b140-3cfc17426483.jpg",
+        "/portfolio/projects/9989de2d-8a4d-4476-ada5-e27f467a7448.jpg"
       ],
       functions: [
         "Monitors soil moisture",
@@ -212,7 +213,7 @@ function App() {
 
           <div className="home-image">
             <img
-              src="/projects/dcffb35d-0631-4e20-af2f-f701c7f6531a.jpg"
+              src="/portfolio/projects/dcffb35d-0631-4e20-af2f-f701c7f6531a.jpg"
               alt="Precious Ann"
             />
           </div>

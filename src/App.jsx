@@ -234,7 +234,7 @@ function App() {
             <div className="about-back">
               <h2>About Me</h2>
               <p>
-                I am a Computer Engineering with a strong focus on software
+                I am a Computer Engineer with a strong focus on software
                 development, embedded systems, and IoT-based solutions. I
                 specialize in building technology-driven projects that seamlessly
                 integrate hardware and software.
